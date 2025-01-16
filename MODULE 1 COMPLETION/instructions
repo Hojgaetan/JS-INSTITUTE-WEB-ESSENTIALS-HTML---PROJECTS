@@ -1,0 +1,54 @@
+- Start by creating a new HTML file and name it index.html.
+- Begin your HTML document with the DOCTYPE declaration to specify the HTML version you'll be using – HTML5.
+- Then, enclose the entire content of your webpage within the <html> tags.
+
+- Create the <head> section of your HTML document. Inside the <head> section, set the title of your page to "Indoor Plants" using the <title> tag.
+- Add meta descriptions for your page using <meta> tags. Include the following:
+  - Name: Set the name attribute to "description".
+  - Content: Set the content attribute to the following description of the webpage: "Explore a variety of indoor plants for your home or office."
+
+- Set the character encoding for your webpage to UTF-8 using the <meta> tag. This ensures proper display of special characters.
+- Create the <body> section of your HTML document. Within the <body> section, start by adding an <h1> tag with a title for your webpage, such as "Indoor Plants".
+- Next, add two <h2> tags – one for each plant name: "Peace Lily" and "Zanzibar Gem".
+- Following each <h2> tag, add a <p> tag containing a short description of the plant:
+  - For the Peace Lily: "The Peace Lily, known for its elegant white flowers, is a popular choice for indoor spaces."
+  - For the Zanzibar Gem: "The Zanzibar Gem, with its glossy green foliage, is a low-maintenance indoor plant perfect for beginners."
+- Insert another <p> tag after the description to display the price of each plant:
+  -For the Peace Lily: "Price: $15"
+  -For the Zanzibar Gem: "Price: $20"
+Following the price, incorporate an image of the plant using the <img> tag, with the location of the image file specified in the src attribute, and the name of the plant provided in the alt attribute:
+For the Peace Lily – source: "/uploads/media/default/0001/04/spathiphyllum-peace-lily.jpg", alternative text: "Peace Lily".
+For the Zanzibar Gem – source: "/uploads/media/default/0001/04/zamioculcas-zanzibar-gem.jpg", alternative text: "Zanzibar Gem".
+
+- Review your webpage to ensure all elements are properly structured and displayed.
+- Experiment and Customize – Feel free to experiment by adding additional information or elements to enhance the webpage if you wish.
+
+############################### french ######################################
+- Commencez par créer un nouveau fichier HTML et nommez-le index.html
+- Commencez votre document HTML avec la déclaration DOCTYPE pour spécifier la version HTML que
+vous utiliserez – HTML5.
+- Ensuite, entourez l’intégralité du contenu de votre page Web dans les balises <html>
+
+- Créez la section <head> de votre document HTML. Dans la section <head>, définissez le titre de votre page sur « Plantes d'intérieur » à l'aide de la balise <title>
+- Ajoutez des méta-descriptions pour votre page à l'aide de balises <meta>. Incluez les éléments suivants
+  - Nom : définissez l' attribut nom sur « description »
+  - Contenu : Définissez l' attribut de contenu sur la description suivante de la page Web :
+    « Découvrez une variété de plantes d'intérieur pour votre maison ou votre bureau.
+
+- Définissez le codage des caractères de votre page Web sur UTF-8 à l'aide de la balise <meta>.
+  Cela garantit un affichage correct des caractères spéciaux.
+
+- Créez la section <body> de votre document HTML. Dans la section <body>, commencez par ajouter une balise <h1> avec un titre pour votre page Web, par exemple « Plantes d'intérieur »
+- Ensuite, ajoutez deux balises <h2> – une pour chaque nom de plante : « Peace Lily » et « Zanzibar Gem »
+- Après chaque balise <h2>, ajoutez une balise <p> contenant une brève description de la plante :
+  - Pour le lis de paix : « Le lis de paix, connu pour ses élégantes fleurs blanches, est un choix populaire pour les espaces intérieurs.
+  - Pour le Zanzibar Gem : « Le Zanzibar Gem, avec son feuillage vert brillant, est une plante d'intérieur nécessitant peu d'entretien, parfaite pour les débutants.
+- Insérez une autre balise <p> après la description pour afficher le prix de chaque plante
+  - Pour le lys de la paix : « Prix : 15 $ »
+  - Pour le Zanzibar Gem : « Prix : 20 $ »
+- Après le prix, incorporez une image de la plante en utilisant la balise <img>, avec l'emplacement du fichier image spécifié dans l' attribut src et le nom de la plante fourni dans l' attribut alt :
+  - Pour le lys de la paix – source : « /uploads/media/default/0001/04/spathiphyllum-peace-lily.jpg », texte alternatif : « lys de la paix »
+  - Pour le Zanzibar Gem – source : « /uploads/media/default/0001/04/zamioculcas-zanzibar-gem.jpg », texte alternatif : « Zanzibar Gem ».
+
+- Vérifiez votre page Web pour vous assurer que tous les éléments sont correctement structurés et affichés.
+- Expérimentez et personnalisez – N’hésitez pas à expérimenter en ajoutant des informations ou des éléments supplémentaires pour améliorer la page Web si vous le souhaitez.
